@@ -32,7 +32,7 @@ As a pentester, you will spend 90% of your time in a terminal. You generally won
 * How do you check active connections without a GUI?
 * **Command:** `netstat -antp` or `ss -lntp`. (Memorize these flags: **a**ll, **n**umeric, **t**cp, **p**rocess). This helps you find internal services listening on localhost that Nmap couldn't see from the outside.
 
-
+# DONE ✅
 
 ### 2. Networking (Applied Knowledge)
 
