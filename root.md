@@ -52,6 +52,7 @@ You know the OSI layers. Now you need to know how to abuse them.
 * Understand CIDR notation. If a client says "Scan `192.168.1.0/24`", you need to know that means IPs `192.168.1.1` to `192.168.1.254`.
 
 
+# DONE ✅
 
 ### 3. Web Application Security (The Core)
 
