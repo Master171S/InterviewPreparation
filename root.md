@@ -81,7 +81,7 @@ For a web role, this is the most critical section. You must master the **OWASP T
 * **IDOR (Insecure Direct Object Reference):**
 * **Scenario:** Changing a value in the URL (e.g., `user_id=100`  `user_id=101`) allows you to see someone else's private data.
 
-
+DONE ✅
 
 ### 4. Active Directory (AD) Fundamentals
 
